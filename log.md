@@ -20,7 +20,7 @@
 
 **Today's Progress**: Worked on FreeCodeCamps random quote machine. Added some css animations
 
-**Thoughts:** Made more progess on this today, but my head wasn't in it. I was able to add a loading animation to play while the request goes out, yes it's not async but that's a bug for another day,
+**Thoughts:** Made more progress on this today, but my head wasn't in it. I was able to add a loading animation to play while the request goes out, yes it's not async but that's a bug for another day,
 added a fade in div for the container of the quote machine, tomrrow will start hooking things up to the data.
 
 **Link to work:** www.github.com/chadbowen248
