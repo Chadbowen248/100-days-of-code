@@ -1,0 +1,26 @@
+# 100 Days Of Code - Log
+
+ Day 1: January 4 2017
+
+**Today's Progress**: Worked on FreeCodeCamps random quote machine.
+
+**Thoughts:** I've done something similar with jQuery and getJSON() with a movie poster app but I wanted to try this using vanilla JS and use XMLHttpRequest, took a lot longer that I thought it would. Spent a long time realizing that the API I was trying to use wasn't set up for me to include the API key in the URL as a parameter. Only can be set in the header. That led me to some google-fu and came across XMLHttpRequest, and looked through the docs. Nothing to show so far, just have the call returning a random movie quote. Next is to save it to a variable or array or something.
+
+**Link to work:** nothing to show yet
+
+ Day 2: January 5 2017
+
+**Today's Progress**: Worked on FreeCodeCamps random quote machine.
+
+**Thoughts:** Made more progress on this today, I now have an array of responses from an API call. Tomorrow I'll work on getting them to display on the page.
+
+**Link to work:** nothing to show yet
+
+ Day 3: January 6 2017
+
+**Today's Progress**: Worked on FreeCodeCamps random quote machine. Added some css animations
+
+**Thoughts:** Made more progess on this today, but my head wasn't in it. I was able to add a loading animation to play while the request goes out, yes it's not async but that's a bug for another day,
+added a fade in div for the container of the quote machine, tomrrow will start hooking things up to the data.
+
+**Link to work:** www.github.com/chadbowen248
