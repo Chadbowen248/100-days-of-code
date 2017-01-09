@@ -32,3 +32,12 @@ added a fade in div for the container of the quote machine, tomrrow will start h
 **Thoughts:** Today was fun, I like getting things hooked up to the display.
 
 **Link to work:** www.github.com/chadbowen248
+
+ Day 5: January 8 2017
+
+**Today's Progress**: Huge progress today, Practically done, got colors changing on click and a tweet functionality added!!, refactored code to make more clean and readable.
+
+**Thoughts:** Today was amazing, flew though the challenges and had some bugs but they were really easy to kill!!
+I'll look into deploying this to a github page.
+
+**Link to work:** www.github.com/chadbowen248
