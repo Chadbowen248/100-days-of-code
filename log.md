@@ -24,3 +24,11 @@
 added a fade in div for the container of the quote machine, tomrrow will start hooking things up to the data.
 
 **Link to work:** www.github.com/chadbowen248
+
+ Day 4: January 7 2017
+
+**Today's Progress**: Have quotes displaying on page and change on click, I'll try to get the colors to change randomly tomorrow.
+
+**Thoughts:** Today was fun, I like getting things hooked up to the display.
+
+**Link to work:** www.github.com/chadbowen248
