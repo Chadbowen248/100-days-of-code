@@ -42,7 +42,7 @@ I'll look into deploying this to a github page.
 
 **Link to work:** www.github.com/chadbowen248
 
- Day 6: January 8 2017
+ Day 6: January 9 2017
 
 **Today's Progress**: Huge progress today, Practically done, got colors changing on click and a tweet functionality added!!, refactored code to make more clean and readable.
 
@@ -51,10 +51,18 @@ I'll look into deploying this to a github page.
 
 **Link to work:** www.github.com/chadbowen248
 
- Day 7: January 8 2017
+ Day 7: January 10  2017
 
 **Today's Progress**: started on FCC weather API
 
 **Thoughts:** I thought this would be kind of easy to start off, just coming off a similar project using an API for the quotes. I used the same pattern and techniques that worked for me with the quote machine, but something's not quite right. It's not parseing correctly. Only getting [object, object] to appear. I think I'm displaying the response object from the fetch call and not the response itself. ugh
+
+**Link to work:** www.github.com/chadbowen248
+
+ Day 8: January 11 2017
+
+**Today's Progress**: Data is being stored in App object from weather API, good start.
+
+**Thoughts:** Turns out was just too tired yesterday, the same pattern applies here as the RQM. The mistake I made was I was trying to display the coords object in the dom, and couldn't figure out why is was displaying object object, well it's because the coords object on the response is an object, yup that would do it. 
 
 **Link to work:** www.github.com/chadbowen248
