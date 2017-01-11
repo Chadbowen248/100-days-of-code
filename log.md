@@ -41,3 +41,20 @@ added a fade in div for the container of the quote machine, tomrrow will start h
 I'll look into deploying this to a github page.
 
 **Link to work:** www.github.com/chadbowen248
+
+ Day 6: January 8 2017
+
+**Today's Progress**: Huge progress today, Practically done, got colors changing on click and a tweet functionality added!!, refactored code to make more clean and readable.
+
+**Thoughts:** Today was amazing, flew though the challenges and had some bugs but they were really easy to kill!!
+I'll look into deploying this to a github page.
+
+**Link to work:** www.github.com/chadbowen248
+
+ Day 7: January 8 2017
+
+**Today's Progress**: started on FCC weather API
+
+**Thoughts:** I thought this would be kind of easy to start off, just coming off a similar project using an API for the quotes. I used the same pattern and techniques that worked for me with the quote machine, but something's not quite right. It's not parseing correctly. Only getting [object, object] to appear. I think I'm displaying the response object from the fetch call and not the response itself. ugh
+
+**Link to work:** www.github.com/chadbowen248
