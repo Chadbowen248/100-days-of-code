@@ -66,3 +66,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Turns out was just too tired yesterday, the same pattern applies here as the RQM. The mistake I made was I was trying to display the coords object in the dom, and couldn't figure out why is was displaying object object, well it's because the coords object on the response is an object, yup that would do it. 
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 9: January 12 2017
+
+**Today's Progress**: Most functionality is there, just need to have icons change based on the weather. Should be interesting. 
+
+**Thoughts:** This project has been fun so far, I'm really liking messing with APIs. I like how they all seem to follow a pattern of get the data, save the data somewhere, then you can mess with it all you want, assuming you just need to make one call to it. 
+
+**Link to work:** www.github.com/chadbowen248
