@@ -75,3 +75,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** This project has been fun so far, I'm really liking messing with APIs. I like how they all seem to follow a pattern of get the data, save the data somewhere, then you can mess with it all you want, assuming you just need to make one call to it. 
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 10: January 13 2017
+
+**Today's Progress**: Finished FCC weatherAPI, was pretty fun.
+
+**Thoughts:** Will take a break from APIs next, I'll work on some wes bos stuff.
+
+**Link to work:** www.github.com/chadbowen248
