@@ -84,3 +84,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Will take a break from APIs next, I'll work on some wes bos stuff.
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 11: January 14 2017
+
+**Today's Progress**: Refactoring Movie Poster API
+
+**Thoughts:** This is much harder than starting from scratch, I've gotten alo better at coding since then but still, i see what I did and it's a challenge to get that out of my head and come up with a more elegant solution. Still i think it's an important exercise in problem solving and coding. In the real world you'll be working on other peoples code so I better get used to it. Haha i'm in trouble if I can't under stand my own. 
+
+**Link to work:** www.github.com/chadbowen248
