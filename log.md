@@ -111,3 +111,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** I'm almost done but haveing trouble coming up with the last solution, without copying and pasting practically the same function.
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 14: January 17 2017
+
+**Today's Progress** Finished refactoring Movie Poster API reduced 80 lines to 50.
+
+**Thoughts:** Nice feeling finishing this, surprised how long it took to refactor, longer than it took me to code in the first place
+
+**Link to work:** www.github.com/chadbowen248
