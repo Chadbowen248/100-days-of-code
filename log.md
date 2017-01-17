@@ -102,3 +102,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** More of the same, no real progress
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 13: January 16 2017
+
+**Today's Progress**: Refactoring Movie Poster API
+
+**Thoughts:** I'm almost done but haveing trouble coming up with the last solution, without copying and pasting practically the same function.
+
+**Link to work:** www.github.com/chadbowen248
