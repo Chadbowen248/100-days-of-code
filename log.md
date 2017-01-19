@@ -120,3 +120,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Nice feeling finishing this, surprised how long it took to refactor, longer than it took me to code in the first place
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 15: January 18 2017
+
+**Today's Progress** Started looking at wikipedia's API docs, super confusing.
+
+**Thoughts:** Came to a screeching halt today, not one line of code was written, just trying to understand the API
+
+**Link to work:** www.github.com/chadbowen248
