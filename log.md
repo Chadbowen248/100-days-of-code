@@ -129,3 +129,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Came to a screeching halt today, not one line of code was written, just trying to understand the API
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 16: January 19 2017
+
+**Today's Progress** still looking at wikipedia's API docs, super confusing.
+
+**Thoughts:** Came to a screeching halt today, not one line of code was written, just trying to understand the API
+
+**Link to work:** www.github.com/chadbowen248
