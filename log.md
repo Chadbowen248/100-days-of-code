@@ -138,3 +138,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Came to a screeching halt today, not one line of code was written, just trying to understand the API
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 17: January 20 2017
+
+**Today's Progress** Got kinda the reponses back that I want from the api query, it's all I want but they are separated into three sub arrays, want to transform them into their own object so they're easier to work with
+
+**Thoughts:** Array and object manipulation practice
+
+**Link to work:** www.github.com/chadbowen248
