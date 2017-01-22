@@ -147,3 +147,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Array and object manipulation practice
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 18: January 21 2017
+
+**Today's Progress** watched some MVP funfunfunctions trying to understand reduce, I get the simple example, still working on the advanced one. Might ask reddit for help tomorrow. 
+
+**Thoughts:** Array and object manipulation practice
+
+**Link to work:** www.github.com/chadbowen248
