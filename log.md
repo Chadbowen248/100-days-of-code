@@ -156,3 +156,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Array and object manipulation practice
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 19: January 22 2017
+
+**Today's Progress** Still stuck on getting these arr into objects. Asked for help on reddit and twitter
+
+**Thoughts:** Array and object manipulation practice
+
+**Link to work:** www.github.com/chadbowen248
