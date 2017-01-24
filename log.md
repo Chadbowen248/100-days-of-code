@@ -165,3 +165,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Array and object manipulation practice
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 20: January 23 2017
+
+**Today's Progress** success! I used map on the arrays, needed to use it on one of the sub arr and then just return the object. Finished laying out the basic structure of the code.
+
+**Thoughts:** The rest of this should be a cake walk Going to look into handle bars for templating.
+
+**Link to work:** www.github.com/chadbowen248
