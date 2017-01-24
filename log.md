@@ -174,3 +174,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** The rest of this should be a cake walk Going to look into handle bars for templating.
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 21: January 24 2017
+
+**Today's Progress** In a hurry can't talk. Made progress. Spent so long with react and abstraction I forgot how to loop through ul with vanillia js.
+
+**Thoughts:** The rest of this should be a cake walk Going to look into handle bars for templating.
+
+**Link to work:** www.github.com/chadbowen248
