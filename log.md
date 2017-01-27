@@ -183,3 +183,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** The rest of this should be a cake walk Going to look into handle bars for templating.
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 22: January 26 2017
+
+**Today's Progress** Close to done with wiki viewer. Thankful for things like handlebars, a pain with vanilla JS
+
+**Thoughts:** 
+
+**Link to work:** www.github.com/chadbowen248
