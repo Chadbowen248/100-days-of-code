@@ -192,3 +192,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** 
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 23: January 27 2017
+
+**Today's Progress** Wiki viewer works! Needs styling
+
+**Thoughts:** 
+
+**Link to work:** www.github.com/chadbowen248
