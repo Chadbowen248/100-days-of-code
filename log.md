@@ -201,3 +201,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** 
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 24: January 28 2017
+
+**Today's Progress** styled a little css, still working on it.
+
+**Thoughts:** 
+
+**Link to work:** www.github.com/chadbowen248
