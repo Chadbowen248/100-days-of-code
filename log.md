@@ -219,3 +219,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** 
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 26: February 1 2017
+
+**Today's Progress** finishing wiki viewer
+
+**Thoughts:** 
+
+**Link to work:** www.github.com/chadbowen248
