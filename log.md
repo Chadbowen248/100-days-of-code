@@ -228,3 +228,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** 
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 27: February 2 2017
+
+**Today's Progress** starting wes bos javascript 30
+
+**Thoughts:** Really looking forward to this. Wes is the man. 
+
+**Link to work:** www.github.com/chadbowen248
