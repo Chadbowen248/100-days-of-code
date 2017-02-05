@@ -246,3 +246,12 @@ I'll look into deploying this to a github page.
 **Thoughts:** Really looking forward to this. Wes is the man. 
 
 **Link to work:** www.github.com/chadbowen248
+
+
+ Day 29: February 4 2017
+
+**Today's Progress** started working on drum kit
+
+**Thoughts:** have to add css transition, too sleepy now but got the sounds to play
+
+**Link to work:** www.github.com/chadbowen248
